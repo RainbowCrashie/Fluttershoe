@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Fluttershoe.Extentions
+namespace Fluttershoe.Extensions
 {
-    public static class DiscordExtentions
+    public static class DiscordExtensions
     {
        
         public static string SintaxHighlightingMultiLine(this string str, string language = "")

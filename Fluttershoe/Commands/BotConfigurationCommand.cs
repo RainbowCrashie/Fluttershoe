@@ -2,7 +2,7 @@
 using Discord;
 using Discord.Commands;
 using Fluttershoe.Configs;
-using Fluttershoe.Extentions;
+using Fluttershoe.Extensions;
 
 namespace Fluttershoe.Commands
 {

@@ -3,7 +3,7 @@ using System.Reflection;
 using System.Threading.Tasks;
 using Discord.Commands;
 using Discord.WebSocket;
-using Fluttershoe.Extentions;
+using Fluttershoe.Extensions;
 using Microsoft.Extensions.DependencyModel;
 
 namespace Fluttershoe

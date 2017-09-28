@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Discord.Commands;
-using Fluttershoe.Extentions;
+using Fluttershoe.Extensions;
 
 namespace Fluttershoe.Commands
 {

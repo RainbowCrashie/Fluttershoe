@@ -5,7 +5,7 @@ using Discord;
 using Discord.Commands;
 using Discord.WebSocket;
 using Fluttershoe.Commands;
-using Fluttershoe.Extentions;
+using Fluttershoe.Extensions;
 
 namespace Fluttershoe
 {

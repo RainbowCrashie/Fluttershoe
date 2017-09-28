@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using Fluttershoe.Utils;
 
-namespace Fluttershoe.Extentions
+namespace Fluttershoe.Extensions
 {
-    public static class CommonExtentions
+    public static class CommonExtensions
     {
         //SplitList cant be IEnumerable, hence these two cant be generalized
         //TODO:Experiments
